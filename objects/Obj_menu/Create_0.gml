@@ -1,3 +1,4 @@
+//Posição que aparecerá na tela usando array
 menu_options = ["Jogar", "Configurações", "Sair"];
 index = 0;
 op_max = array_length(menu_options);
